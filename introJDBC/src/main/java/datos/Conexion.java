@@ -5,10 +5,7 @@
 package datos;
 
 import java.sql.*;
-/**
- *
- * @author jonns
- */
+
 public class Conexion {
     
     private static final String url = "jdbc:postgresql://localhost:5432/CRUD";

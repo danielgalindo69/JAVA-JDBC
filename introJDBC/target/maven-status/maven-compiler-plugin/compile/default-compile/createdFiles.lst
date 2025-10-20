@@ -1,6 +1,7 @@
-datos\Conexion.class
 domain\persona.class
 test\Testpostjdbc.class
+datos\personaDAO.class
+datos\Conexion.class
 test\TestManejoPersonas.class
 IntroJDBC.class
-datos\personaDAO.class
+test\mainTest.class
