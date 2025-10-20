@@ -18,8 +18,7 @@ public class TestManejoPersonas {
         dao.insertar(personaNuneva);
         
         
-        
-
+ 
         //modificar un registro
         
         persona personaMOD = new persona(3, "galigaliano","dosnueve", "danionicha@gamil.com","909698698");
